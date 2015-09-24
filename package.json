@@ -1,0 +1,19 @@
+{
+  "name": "reactplayground",
+  "version": "1.0.0",
+  "description": "play with react",
+  "main": "build/index.html",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors --inline --port 8080"
+  },
+  "author": "Jejearri",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.11.0"
+  }
+}
