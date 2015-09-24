@@ -4,7 +4,7 @@
   "description": "play with react",
   "main": "build/index.html",
   "scripts": {
-    "dev": "webpack-dev-server --progress --colors --inline --port 8080"
+    "dev": "webpack-dev-server --progress --colors --port 8080"
   },
   "author": "Jejearri",
   "license": "ISC",
